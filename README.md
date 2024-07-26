@@ -5,4 +5,4 @@ In this project, our team implemented a "Speaker profiling deep learning model" 
 
 The project won a 2nd-place award at CO-Deep Learning, an intramural competition at Sungkyunkwan University, and has been patented.
 
-Jiwoo Hong, Hyolim Jeon, Soo Jeong Lee, Seungwoo Lee, Sehyun An and Jinyeong Bak, "Method and apparatus for voice profiling", patent- 10-2022-0065406 (May 2022)
+Jinyeong Bak, Jiwoo Hong, Hyolim Jeon, Soo Jeong Lee, Seungwoo Lee, and Sehyun An, "Method and apparatus for voice profiling", patent- 10-2022-0065406 (May 2022)
